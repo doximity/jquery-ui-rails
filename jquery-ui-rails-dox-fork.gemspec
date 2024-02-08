@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.version     = Jquery::Ui::Rails::VERSION
   s.authors     = ["Jeff Gran"]
   s.email       = ["jgran@doximity.com"]
-  s.homepage    = "https://github.com/jquery-ui-rails/jquery-ui-rails"
+  s.homepage    = "https://github.com/doximity/jquery-ui-rails"
   s.summary     = "jQuery UI packaged for the Rails asset pipeline"
   s.description = "jQuery UI's JavaScript, CSS, and image files packaged for the Rails 3.1+ asset pipeline"
   s.license     = "APACHE-2.0"
