@@ -22,7 +22,7 @@ version. Run `bundle list` to ensure that you either aren't using
 In your Gemfile, add:
 
 ```ruby
-gem 'jquery-ui-rails'
+gem 'jquery-ui-rails-dox-fork', require: "jquery-ui-rails"
 ```
 
 ## Require Everything
